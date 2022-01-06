@@ -1,0 +1,34 @@
+body{
+    background-image:url("./images/imaheas.jpg");
+}
+
+
+
+h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: aliceblue;
+    font-size: 55px;
+
+
+}
+h1
+{
+text-align: center;
+margin-top: 50px;
+font-size: 75px;
+color: azure;
+font-style: oblique;
+
+}
+.dice{
+margin-top: 70px;
+margin-left: 600px;
+margin-right: 300px;
+
+}
+.img2
+{
+    margin-left: 50px;
+}
