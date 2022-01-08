@@ -24,11 +24,22 @@ font-style: oblique;
 }
 .dice{
 margin-top: 70px;
-margin-left: 600px;
-margin-right: 300px;
+text-align: center;
 
 }
 .img2
 {
     margin-left: 50px;
+}
+@media (max-width:700px) and (min-width:200px){
+    .img1,.img2{
+        height: 150px;
+        width: 150px;
+    }
+    h1{
+        font-size: 45px;
+    }
+    h2{
+        font-size: 35px;
+    }
 }
