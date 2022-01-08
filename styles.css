@@ -2,13 +2,17 @@ body{
     background-image:url("./images/imaheas.jpg");
 }
 
-
+h4{
+    color:gainsboro;
+text-align: center;
+}
 
 h2{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
-    color: darkturquoise;
+    color:  darkturquoise;
+    font-family: 'Dancing Script', cursive;
     font-size: 55px;
 
 
@@ -17,9 +21,10 @@ h1
 {
 text-align: center;
 margin-top: 50px;
-font-size: 75px;
-color: azure;
-font-style: oblique;
+font-size: 65px;
+color: aliceblue;
+font-weight: bold;
+font-family: 'Moon Dance', cursive;
 
 }
 .dice{
