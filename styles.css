@@ -8,7 +8,7 @@ h2{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
-    color: aliceblue;
+    color: darkturquoise;
     font-size: 55px;
 
 
@@ -27,10 +27,7 @@ margin-top: 70px;
 text-align: center;
 
 }
-.img2
-{
-    margin-left: 50px;
-}
+
 @media (max-width:700px) and (min-width:200px){
     .img1,.img2{
         height: 150px;
